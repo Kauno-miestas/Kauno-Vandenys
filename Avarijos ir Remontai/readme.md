@@ -1,1 +1,1 @@
-Lentelėje pateikiama Data, Pastabos ir Adresai
+Lentelėje pateikiama įvykio data, pastabos - atliekamų darbų aprašas, adresai
